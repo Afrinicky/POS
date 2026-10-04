@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retail POS &amp; Inventory</string>
+    <string name="pos_terminal">POS Terminal</string>
+    <string name="inventory">Inventory</string>
+    <string name="history">Sales History</string>
+    <string name="ai_advisor">AI Advisor</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Retail POS & Inventory",
+  "description": "Offline retail POS and inventory management for Ghanaian businesses (Provisions, Pharmaceuticals, Groceries, Cosmetics) with camera barcode scanning, barcode sticker printing, Mobile Money (MoMo), and unpaid AI advisor.",
+  "requestFramePermissions": ["android.permission.CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
